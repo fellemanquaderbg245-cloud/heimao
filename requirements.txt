@@ -1,9 +1,0 @@
-Plaintext
-
-streamlit
-pandas
-numpy
-xgboost
-scikit-learn
-scipy
-requests
